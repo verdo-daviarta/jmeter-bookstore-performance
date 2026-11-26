@@ -1,0 +1,201 @@
+timeStamp,elapsed,label,responseCode,responseMessage,threadName,dataType,success,failureMessage,bytes,sentBytes,grpThreads,allThreads,URL,Latency,IdleTime,Connect
+1795692902840,1538,Generate Token,200,OK,Cleanup - 50 Akun Uji 1-1,text,true,,523,252,1,1,https://demoqa.com/Account/v1/GenerateToken,1538,0,649
+1795692904403,221,Login,200,OK,Cleanup - 50 Akun Uji 1-1,text,true,,617,244,1,1,https://demoqa.com/Account/v1/Login,221,0,0
+1795692902804,1759,Transaction Controller 01 - Login,200,"Number of samples in transaction : 2, number of failing samples : 0",Cleanup - 50 Akun Uji 1-1,,true,,1140,496,1,1,null,1759,56,649
+1795692904626,1076,Cleanup,204,No Content,Cleanup - 50 Akun Uji 1-1,,true,,185,455,1,1,https://demoqa.com/BookStore/v1/Books?UserId=0b2b05b4-f975-40e4-8848-f52cd52b4a7e,0,0,0
+1795692905703,869,Generate Token,200,OK,Cleanup - 50 Akun Uji 1-1,text,true,,523,252,1,1,https://demoqa.com/Account/v1/GenerateToken,869,0,0
+1795692906574,417,Login,200,OK,Cleanup - 50 Akun Uji 1-1,text,true,,617,244,1,1,https://demoqa.com/Account/v1/Login,417,0,0
+1795692905703,1286,Transaction Controller 01 - Login,200,"Number of samples in transaction : 2, number of failing samples : 0",Cleanup - 50 Akun Uji 1-1,,true,,1140,496,1,1,null,1286,3,0
+1795692906992,443,Cleanup,204,No Content,Cleanup - 50 Akun Uji 1-1,,true,,185,455,1,1,https://demoqa.com/BookStore/v1/Books?UserId=837f5803-aa20-4bbb-ae04-2a60aed21775,0,0,0
+1795692907436,903,Generate Token,200,OK,Cleanup - 50 Akun Uji 1-1,text,true,,523,252,1,1,https://demoqa.com/Account/v1/GenerateToken,902,0,0
+1795692908339,421,Login,200,OK,Cleanup - 50 Akun Uji 1-1,text,true,,617,244,1,1,https://demoqa.com/Account/v1/Login,421,0,0
+1795692907436,1324,Transaction Controller 01 - Login,200,"Number of samples in transaction : 2, number of failing samples : 0",Cleanup - 50 Akun Uji 1-1,,true,,1140,496,1,1,null,1323,2,0
+1795692908762,1008,Cleanup,204,No Content,Cleanup - 50 Akun Uji 1-1,,true,,185,455,1,1,https://demoqa.com/BookStore/v1/Books?UserId=78ea94dd-d79b-44e8-867c-6be3b5774218,0,0,0
+1795692909774,879,Generate Token,200,OK,Cleanup - 50 Akun Uji 1-1,text,true,,523,252,1,1,https://demoqa.com/Account/v1/GenerateToken,878,0,0
+1795692910655,468,Login,200,OK,Cleanup - 50 Akun Uji 1-1,text,true,,617,244,1,1,https://demoqa.com/Account/v1/Login,468,0,0
+1795692909773,1347,Transaction Controller 01 - Login,200,"Number of samples in transaction : 2, number of failing samples : 0",Cleanup - 50 Akun Uji 1-1,,true,,1140,496,1,1,null,1346,4,0
+1795692911125,1059,Cleanup,204,No Content,Cleanup - 50 Akun Uji 1-1,,true,,185,455,1,1,https://demoqa.com/BookStore/v1/Books?UserId=ab861bfd-373d-4c5a-965c-ba69296491af,0,0,0
+1795692912184,1096,Generate Token,200,OK,Cleanup - 50 Akun Uji 1-1,text,true,,523,252,1,1,https://demoqa.com/Account/v1/GenerateToken,1096,0,0
+1795692913281,395,Login,200,OK,Cleanup - 50 Akun Uji 1-1,text,true,,617,244,1,1,https://demoqa.com/Account/v1/Login,395,0,0
+1795692912184,1491,Transaction Controller 01 - Login,200,"Number of samples in transaction : 2, number of failing samples : 0",Cleanup - 50 Akun Uji 1-1,,true,,1140,496,1,1,null,1491,4,0
+1795692913678,1031,Cleanup,204,No Content,Cleanup - 50 Akun Uji 1-1,,true,,185,455,1,1,https://demoqa.com/BookStore/v1/Books?UserId=5494efbe-3395-4e13-a15b-31d3104ac468,0,0,0
+1795692914710,867,Generate Token,200,OK,Cleanup - 50 Akun Uji 1-1,text,true,,523,252,1,1,https://demoqa.com/Account/v1/GenerateToken,867,0,0
+1795692915579,588,Login,200,OK,Cleanup - 50 Akun Uji 1-1,text,true,,617,244,1,1,https://demoqa.com/Account/v1/Login,587,0,0
+1795692914710,1455,Transaction Controller 01 - Login,200,"Number of samples in transaction : 2, number of failing samples : 0",Cleanup - 50 Akun Uji 1-1,,true,,1140,496,1,1,null,1454,4,0
+1795692916170,1032,Cleanup,204,No Content,Cleanup - 50 Akun Uji 1-1,,true,,185,455,1,1,https://demoqa.com/BookStore/v1/Books?UserId=f34655c4-3969-4e89-9c8a-5a81cd667cbb,0,0,0
+1795692917203,885,Generate Token,200,OK,Cleanup - 50 Akun Uji 1-1,text,true,,523,252,1,1,https://demoqa.com/Account/v1/GenerateToken,885,0,0
+1795692918089,396,Login,200,OK,Cleanup - 50 Akun Uji 1-1,text,true,,617,244,1,1,https://demoqa.com/Account/v1/Login,396,0,0
+1795692917203,1281,Transaction Controller 01 - Login,200,"Number of samples in transaction : 2, number of failing samples : 0",Cleanup - 50 Akun Uji 1-1,,true,,1140,496,1,1,null,1281,0,0
+1795692918486,1199,Cleanup,204,No Content,Cleanup - 50 Akun Uji 1-1,,true,,185,455,1,1,https://demoqa.com/BookStore/v1/Books?UserId=6c6c1ba5-2983-4ebe-9f35-1d9e215a65ed,0,0,0
+1795692919688,1224,Generate Token,200,OK,Cleanup - 50 Akun Uji 1-1,text,true,,523,252,1,1,https://demoqa.com/Account/v1/GenerateToken,1223,0,0
+1795692920913,342,Login,200,OK,Cleanup - 50 Akun Uji 1-1,text,true,,617,244,1,1,https://demoqa.com/Account/v1/Login,342,0,0
+1795692919687,1566,Transaction Controller 01 - Login,200,"Number of samples in transaction : 2, number of failing samples : 0",Cleanup - 50 Akun Uji 1-1,,true,,1140,496,1,1,null,1565,3,0
+1795692921256,1024,Cleanup,204,No Content,Cleanup - 50 Akun Uji 1-1,,true,,185,455,1,1,https://demoqa.com/BookStore/v1/Books?UserId=47a8f3a3-fd4d-437c-9020-df9ddf7f539a,0,0,0
+1795692922282,840,Generate Token,200,OK,Cleanup - 50 Akun Uji 1-1,text,true,,523,252,1,1,https://demoqa.com/Account/v1/GenerateToken,840,0,0
+1795692923123,214,Login,200,OK,Cleanup - 50 Akun Uji 1-1,text,true,,617,244,1,1,https://demoqa.com/Account/v1/Login,214,0,0
+1795692922281,1054,Transaction Controller 01 - Login,200,"Number of samples in transaction : 2, number of failing samples : 0",Cleanup - 50 Akun Uji 1-1,,true,,1140,496,1,1,null,1054,4,0
+1795692923339,1133,Cleanup,204,No Content,Cleanup - 50 Akun Uji 1-1,,true,,185,455,1,1,https://demoqa.com/BookStore/v1/Books?UserId=01d0539c-0e5f-4020-bce3-c0b0116b0103,0,0,0
+1795692924473,934,Generate Token,200,OK,Cleanup - 50 Akun Uji 1-1,text,true,,523,252,1,1,https://demoqa.com/Account/v1/GenerateToken,934,0,0
+1795692925408,629,Login,200,OK,Cleanup - 50 Akun Uji 1-1,text,true,,617,244,1,1,https://demoqa.com/Account/v1/Login,629,0,0
+1795692924473,1563,Transaction Controller 01 - Login,200,"Number of samples in transaction : 2, number of failing samples : 0",Cleanup - 50 Akun Uji 1-1,,true,,1140,496,1,1,null,1563,1,0
+1795692926038,1000,Cleanup,204,No Content,Cleanup - 50 Akun Uji 1-1,,true,,185,455,1,1,https://demoqa.com/BookStore/v1/Books?UserId=f35147a9-5f85-4612-8651-78a477f4e573,0,0,0
+1795692927038,892,Generate Token,200,OK,Cleanup - 50 Akun Uji 1-1,text,true,,554,275,1,1,https://demoqa.com/Account/v1/GenerateToken,892,0,0
+1795692927931,345,Login,200,OK,Cleanup - 50 Akun Uji 1-1,text,true,,671,267,1,1,https://demoqa.com/Account/v1/Login,345,0,0
+1795692927038,1237,Transaction Controller 01 - Login,200,"Number of samples in transaction : 2, number of failing samples : 0",Cleanup - 50 Akun Uji 1-1,,true,,1225,542,1,1,null,1237,2,0
+1795692928277,1081,Cleanup,204,No Content,Cleanup - 50 Akun Uji 1-1,,true,,185,486,1,1,https://demoqa.com/BookStore/v1/Books?UserId=503b9b8a-766c-42f7-9d51-b3b020e545c6,0,0,0
+1795692929359,922,Generate Token,200,OK,Cleanup - 50 Akun Uji 1-1,text,true,,554,275,1,1,https://demoqa.com/Account/v1/GenerateToken,922,0,0
+1795692930288,597,Login,200,OK,Cleanup - 50 Akun Uji 1-1,text,true,,671,267,1,1,https://demoqa.com/Account/v1/Login,596,0,0
+1795692929359,1519,Transaction Controller 01 - Login,200,"Number of samples in transaction : 2, number of failing samples : 0",Cleanup - 50 Akun Uji 1-1,,true,,1225,542,1,1,null,1518,8,0
+1795692930886,1106,Cleanup,204,No Content,Cleanup - 50 Akun Uji 1-1,,true,,185,486,1,1,https://demoqa.com/BookStore/v1/Books?UserId=f408546c-a71f-494f-915e-f45b93c6d206,0,0,0
+1795692931993,960,Generate Token,200,OK,Cleanup - 50 Akun Uji 1-1,text,true,,554,275,1,1,https://demoqa.com/Account/v1/GenerateToken,960,0,0
+1795692932955,355,Login,200,OK,Cleanup - 50 Akun Uji 1-1,text,true,,671,267,1,1,https://demoqa.com/Account/v1/Login,354,0,0
+1795692931993,1315,Transaction Controller 01 - Login,200,"Number of samples in transaction : 2, number of failing samples : 0",Cleanup - 50 Akun Uji 1-1,,true,,1225,542,1,1,null,1314,3,0
+1795692933311,1015,Cleanup,204,No Content,Cleanup - 50 Akun Uji 1-1,,true,,185,486,1,1,https://demoqa.com/BookStore/v1/Books?UserId=339f1fdd-368f-46e9-8a65-9f6896bc4079,0,0,0
+1795692934327,956,Generate Token,200,OK,Cleanup - 50 Akun Uji 1-1,text,true,,554,275,1,1,https://demoqa.com/Account/v1/GenerateToken,955,0,0
+1795692935284,222,Login,200,OK,Cleanup - 50 Akun Uji 1-1,text,true,,671,267,1,1,https://demoqa.com/Account/v1/Login,222,0,0
+1795692934327,1178,Transaction Controller 01 - Login,200,"Number of samples in transaction : 2, number of failing samples : 0",Cleanup - 50 Akun Uji 1-1,,true,,1225,542,1,1,null,1177,1,0
+1795692935506,996,Cleanup,204,No Content,Cleanup - 50 Akun Uji 1-1,,true,,185,486,1,1,https://demoqa.com/BookStore/v1/Books?UserId=02a373f5-8290-4078-940f-d71cab2df635,0,0,0
+1795692936503,987,Generate Token,200,OK,Cleanup - 50 Akun Uji 1-1,text,true,,554,275,1,1,https://demoqa.com/Account/v1/GenerateToken,987,0,0
+1795692937491,678,Login,200,OK,Cleanup - 50 Akun Uji 1-1,text,true,,671,267,1,1,https://demoqa.com/Account/v1/Login,678,0,0
+1795692936503,1665,Transaction Controller 01 - Login,200,"Number of samples in transaction : 2, number of failing samples : 0",Cleanup - 50 Akun Uji 1-1,,true,,1225,542,1,1,null,1665,2,0
+1795692938170,1019,Cleanup,204,No Content,Cleanup - 50 Akun Uji 1-1,,true,,185,486,1,1,https://demoqa.com/BookStore/v1/Books?UserId=de604f52-b603-4456-9de9-6c83177289c5,0,0,0
+1795692939190,895,Generate Token,200,OK,Cleanup - 50 Akun Uji 1-1,text,true,,554,275,1,1,https://demoqa.com/Account/v1/GenerateToken,894,0,0
+1795692940086,342,Login,200,OK,Cleanup - 50 Akun Uji 1-1,text,true,,671,267,1,1,https://demoqa.com/Account/v1/Login,342,0,0
+1795692939190,1237,Transaction Controller 01 - Login,200,"Number of samples in transaction : 2, number of failing samples : 0",Cleanup - 50 Akun Uji 1-1,,true,,1225,542,1,1,null,1236,2,0
+1795692940430,1148,Cleanup,204,No Content,Cleanup - 50 Akun Uji 1-1,,true,,185,486,1,1,https://demoqa.com/BookStore/v1/Books?UserId=4c62ee1d-0269-45dd-9be9-210b074f292d,0,0,0
+1795692941579,1219,Generate Token,200,OK,Cleanup - 50 Akun Uji 1-1,text,true,,554,275,1,1,https://demoqa.com/Account/v1/GenerateToken,1219,0,0
+1795692942801,628,Login,200,OK,Cleanup - 50 Akun Uji 1-1,text,true,,671,267,1,1,https://demoqa.com/Account/v1/Login,628,0,0
+1795692941579,1847,Transaction Controller 01 - Login,200,"Number of samples in transaction : 2, number of failing samples : 0",Cleanup - 50 Akun Uji 1-1,,true,,1225,542,1,1,null,1847,4,0
+1795692943430,3103,Cleanup,204,No Content,Cleanup - 50 Akun Uji 1-1,,true,,185,486,1,1,https://demoqa.com/BookStore/v1/Books?UserId=fcf6f1ad-4b02-4100-b84b-6f020fc80e6b,0,0,0
+1795692946536,1471,Generate Token,200,OK,Cleanup - 50 Akun Uji 1-1,text,true,,554,275,1,1,https://demoqa.com/Account/v1/GenerateToken,1471,0,0
+1795692948009,312,Login,200,OK,Cleanup - 50 Akun Uji 1-1,text,true,,671,267,1,1,https://demoqa.com/Account/v1/Login,312,0,0
+1795692946535,1783,Transaction Controller 01 - Login,200,"Number of samples in transaction : 2, number of failing samples : 0",Cleanup - 50 Akun Uji 1-1,,true,,1225,542,1,1,null,1783,2,0
+1795692948321,1350,Cleanup,204,No Content,Cleanup - 50 Akun Uji 1-1,,true,,185,486,1,1,https://demoqa.com/BookStore/v1/Books?UserId=24c522f9-8146-4f47-8244-59e338e65f63,0,0,0
+1795692949672,1203,Generate Token,200,OK,Cleanup - 50 Akun Uji 1-1,text,true,,554,275,1,1,https://demoqa.com/Account/v1/GenerateToken,1203,0,0
+1795692950876,233,Login,200,OK,Cleanup - 50 Akun Uji 1-1,text,true,,671,267,1,1,https://demoqa.com/Account/v1/Login,233,0,0
+1795692949672,1436,Transaction Controller 01 - Login,200,"Number of samples in transaction : 2, number of failing samples : 0",Cleanup - 50 Akun Uji 1-1,,true,,1225,542,1,1,null,1436,2,0
+1795692951111,300,Cleanup,204,No Content,Cleanup - 50 Akun Uji 1-1,,true,,185,486,1,1,https://demoqa.com/BookStore/v1/Books?UserId=12c7cfcf-c3ea-4176-b419-e6ba0450ed96,0,0,0
+1795692951412,959,Generate Token,200,OK,Cleanup - 50 Akun Uji 1-1,text,true,,554,275,1,1,https://demoqa.com/Account/v1/GenerateToken,959,0,0
+1795692952372,231,Login,200,OK,Cleanup - 50 Akun Uji 1-1,text,true,,671,267,1,1,https://demoqa.com/Account/v1/Login,231,0,0
+1795692951412,1190,Transaction Controller 01 - Login,200,"Number of samples in transaction : 2, number of failing samples : 0",Cleanup - 50 Akun Uji 1-1,,true,,1225,542,1,1,null,1190,2,0
+1795692952604,1272,Cleanup,204,No Content,Cleanup - 50 Akun Uji 1-1,,true,,185,486,1,1,https://demoqa.com/BookStore/v1/Books?UserId=0efab8d4-d045-4210-a33b-bc19a9cd915a,0,0,0
+1795692953877,1474,Generate Token,200,OK,Cleanup - 50 Akun Uji 1-1,text,true,,554,275,1,1,https://demoqa.com/Account/v1/GenerateToken,1474,0,0
+1795692955352,657,Login,200,OK,Cleanup - 50 Akun Uji 1-1,text,true,,671,267,1,1,https://demoqa.com/Account/v1/Login,656,0,0
+1795692953877,2131,Transaction Controller 01 - Login,200,"Number of samples in transaction : 2, number of failing samples : 0",Cleanup - 50 Akun Uji 1-1,,true,,1225,542,1,1,null,2130,1,0
+1795692956010,1593,Cleanup,204,No Content,Cleanup - 50 Akun Uji 1-1,,true,,185,486,1,1,https://demoqa.com/BookStore/v1/Books?UserId=c7d83ba5-d3b9-4145-8a93-d9163c0c72e9,0,0,0
+1795692957604,1064,Generate Token,200,OK,Cleanup - 50 Akun Uji 1-1,text,true,,554,275,1,1,https://demoqa.com/Account/v1/GenerateToken,1064,0,0
+1795692958668,498,Login,200,OK,Cleanup - 50 Akun Uji 1-1,text,true,,671,267,1,1,https://demoqa.com/Account/v1/Login,497,0,0
+1795692957604,1562,Transaction Controller 01 - Login,200,"Number of samples in transaction : 2, number of failing samples : 0",Cleanup - 50 Akun Uji 1-1,,true,,1225,542,1,1,null,1561,1,0
+1795692959166,564,Cleanup,204,No Content,Cleanup - 50 Akun Uji 1-1,,true,,185,486,1,1,https://demoqa.com/BookStore/v1/Books?UserId=8bd9ddf1-76cb-4a29-a3ff-1002be31a1da,0,0,0
+1795692959732,1026,Generate Token,200,OK,Cleanup - 50 Akun Uji 1-1,text,true,,554,275,1,1,https://demoqa.com/Account/v1/GenerateToken,1026,0,0
+1795692960761,455,Login,200,OK,Cleanup - 50 Akun Uji 1-1,text,true,,671,267,1,1,https://demoqa.com/Account/v1/Login,455,0,0
+1795692959731,1481,Transaction Controller 01 - Login,200,"Number of samples in transaction : 2, number of failing samples : 0",Cleanup - 50 Akun Uji 1-1,,true,,1225,542,1,1,null,1481,5,0
+1795692961218,569,Cleanup,204,No Content,Cleanup - 50 Akun Uji 1-1,,true,,185,486,1,1,https://demoqa.com/BookStore/v1/Books?UserId=8569408e-ee94-4631-852d-2bfbda1e1153,0,0,0
+1795692961788,890,Generate Token,200,OK,Cleanup - 50 Akun Uji 1-1,text,true,,554,275,1,1,https://demoqa.com/Account/v1/GenerateToken,890,0,0
+1795692962680,325,Login,200,OK,Cleanup - 50 Akun Uji 1-1,text,true,,671,267,1,1,https://demoqa.com/Account/v1/Login,325,0,0
+1795692961788,1215,Transaction Controller 01 - Login,200,"Number of samples in transaction : 2, number of failing samples : 0",Cleanup - 50 Akun Uji 1-1,,true,,1225,542,1,1,null,1215,3,0
+1795692963007,842,Cleanup,204,No Content,Cleanup - 50 Akun Uji 1-1,,true,,185,486,1,1,https://demoqa.com/BookStore/v1/Books?UserId=47fe0cc0-532e-47b5-ad69-c909cc524e96,0,0,484
+1795692963850,972,Generate Token,200,OK,Cleanup - 50 Akun Uji 1-1,text,true,,554,275,1,1,https://demoqa.com/Account/v1/GenerateToken,971,0,0
+1795692964823,568,Login,200,OK,Cleanup - 50 Akun Uji 1-1,text,true,,671,267,1,1,https://demoqa.com/Account/v1/Login,568,0,0
+1795692963849,1540,Transaction Controller 01 - Login,200,"Number of samples in transaction : 2, number of failing samples : 0",Cleanup - 50 Akun Uji 1-1,,true,,1225,542,1,1,null,1539,3,0
+1795692965392,1210,Cleanup,204,No Content,Cleanup - 50 Akun Uji 1-1,,true,,185,486,1,1,https://demoqa.com/BookStore/v1/Books?UserId=d8b94bfc-26d7-4f68-8834-4fc81b0ed93c,0,0,0
+1795692966603,1035,Generate Token,200,OK,Cleanup - 50 Akun Uji 1-1,text,true,,554,275,1,1,https://demoqa.com/Account/v1/GenerateToken,1035,0,0
+1795692967639,468,Login,200,OK,Cleanup - 50 Akun Uji 1-1,text,true,,671,267,1,1,https://demoqa.com/Account/v1/Login,468,0,0
+1795692966603,1503,Transaction Controller 01 - Login,200,"Number of samples in transaction : 2, number of failing samples : 0",Cleanup - 50 Akun Uji 1-1,,true,,1225,542,1,1,null,1503,1,0
+1795692968109,1441,Cleanup,204,No Content,Cleanup - 50 Akun Uji 1-1,,true,,185,486,1,1,https://demoqa.com/BookStore/v1/Books?UserId=514ad6c5-bc33-4d54-ba19-eb1113c1bca8,0,0,0
+1795692969551,851,Generate Token,200,OK,Cleanup - 50 Akun Uji 1-1,text,true,,554,275,1,1,https://demoqa.com/Account/v1/GenerateToken,851,0,0
+1795692970402,230,Login,200,OK,Cleanup - 50 Akun Uji 1-1,text,true,,671,267,1,1,https://demoqa.com/Account/v1/Login,229,0,0
+1795692969551,1081,Transaction Controller 01 - Login,200,"Number of samples in transaction : 2, number of failing samples : 0",Cleanup - 50 Akun Uji 1-1,,true,,1225,542,1,1,null,1080,1,0
+1795692970634,592,Cleanup,204,No Content,Cleanup - 50 Akun Uji 1-1,,true,,185,486,1,1,https://demoqa.com/BookStore/v1/Books?UserId=13922023-49e3-4a36-92fc-bbb299c77d64,0,0,0
+1795692971227,954,Generate Token,200,OK,Cleanup - 50 Akun Uji 1-1,text,true,,554,275,1,1,https://demoqa.com/Account/v1/GenerateToken,954,0,0
+1795692972182,347,Login,200,OK,Cleanup - 50 Akun Uji 1-1,text,true,,671,267,1,1,https://demoqa.com/Account/v1/Login,347,0,0
+1795692971227,1301,Transaction Controller 01 - Login,200,"Number of samples in transaction : 2, number of failing samples : 0",Cleanup - 50 Akun Uji 1-1,,true,,1225,542,1,1,null,1301,3,0
+1795692972532,600,Cleanup,204,No Content,Cleanup - 50 Akun Uji 1-1,,true,,185,486,1,1,https://demoqa.com/BookStore/v1/Books?UserId=5e0ec6e1-f469-4dd6-9e9d-6fd6d2a94abc,0,0,0
+1795692973133,941,Generate Token,200,OK,Cleanup - 50 Akun Uji 1-1,text,true,,554,275,1,1,https://demoqa.com/Account/v1/GenerateToken,941,0,0
+1795692974075,472,Login,200,OK,Cleanup - 50 Akun Uji 1-1,text,true,,671,267,1,1,https://demoqa.com/Account/v1/Login,472,0,0
+1795692973132,1413,Transaction Controller 01 - Login,200,"Number of samples in transaction : 2, number of failing samples : 0",Cleanup - 50 Akun Uji 1-1,,true,,1225,542,1,1,null,1413,5,0
+1795692974551,1342,Cleanup,204,No Content,Cleanup - 50 Akun Uji 1-1,,true,,185,486,1,1,https://demoqa.com/BookStore/v1/Books?UserId=9a61391e-f7c5-4a78-baf8-ae48b30c99cf,0,0,0
+1795692975894,961,Generate Token,200,OK,Cleanup - 50 Akun Uji 1-1,text,true,,554,275,1,1,https://demoqa.com/Account/v1/GenerateToken,961,0,0
+1795692976858,292,Login,200,OK,Cleanup - 50 Akun Uji 1-1,text,true,,671,267,1,1,https://demoqa.com/Account/v1/Login,291,0,0
+1795692975894,1253,Transaction Controller 01 - Login,200,"Number of samples in transaction : 2, number of failing samples : 0",Cleanup - 50 Akun Uji 1-1,,true,,1225,542,1,1,null,1252,4,0
+1795692977151,1445,Cleanup,204,No Content,Cleanup - 50 Akun Uji 1-1,,true,,185,486,1,1,https://demoqa.com/BookStore/v1/Books?UserId=32d54d74-c7b9-40e4-b809-4116edd5a788,0,0,0
+1795692978597,859,Generate Token,200,OK,Cleanup - 50 Akun Uji 1-1,text,true,,554,275,1,1,https://demoqa.com/Account/v1/GenerateToken,859,0,0
+1795692979457,542,Login,200,OK,Cleanup - 50 Akun Uji 1-1,text,true,,671,267,1,1,https://demoqa.com/Account/v1/Login,542,0,0
+1795692978597,1401,Transaction Controller 01 - Login,200,"Number of samples in transaction : 2, number of failing samples : 0",Cleanup - 50 Akun Uji 1-1,,true,,1225,542,1,1,null,1401,2,0
+1795692980000,1277,Cleanup,204,No Content,Cleanup - 50 Akun Uji 1-1,,true,,185,486,1,1,https://demoqa.com/BookStore/v1/Books?UserId=d8b3608c-145e-4102-bfcb-51a2eda7a1a4,0,0,0
+1795692981278,949,Generate Token,200,OK,Cleanup - 50 Akun Uji 1-1,text,true,,554,275,1,1,https://demoqa.com/Account/v1/GenerateToken,949,0,0
+1795692982228,583,Login,200,OK,Cleanup - 50 Akun Uji 1-1,text,true,,671,267,1,1,https://demoqa.com/Account/v1/Login,583,0,0
+1795692981278,1533,Transaction Controller 01 - Login,200,"Number of samples in transaction : 2, number of failing samples : 0",Cleanup - 50 Akun Uji 1-1,,true,,1225,542,1,1,null,1532,2,0
+1795692982813,1253,Cleanup,204,No Content,Cleanup - 50 Akun Uji 1-1,,true,,185,486,1,1,https://demoqa.com/BookStore/v1/Books?UserId=d0ac07da-b735-4f8e-aeb5-e4b90d6ddd20,0,0,0
+1795692984069,928,Generate Token,200,OK,Cleanup - 50 Akun Uji 1-1,text,true,,554,275,1,1,https://demoqa.com/Account/v1/GenerateToken,928,0,0
+1795692984998,247,Login,200,OK,Cleanup - 50 Akun Uji 1-1,text,true,,671,267,1,1,https://demoqa.com/Account/v1/Login,247,0,0
+1795692984068,1175,Transaction Controller 01 - Login,200,"Number of samples in transaction : 2, number of failing samples : 0",Cleanup - 50 Akun Uji 1-1,,true,,1225,542,1,1,null,1175,3,0
+1795692985246,1244,Cleanup,204,No Content,Cleanup - 50 Akun Uji 1-1,,true,,185,486,1,1,https://demoqa.com/BookStore/v1/Books?UserId=17b2b161-dae9-44be-b8ed-a1d970b935ff,0,0,0
+1795692986491,1065,Generate Token,200,OK,Cleanup - 50 Akun Uji 1-1,text,true,,554,275,1,1,https://demoqa.com/Account/v1/GenerateToken,1065,0,0
+1795692987556,278,Login,200,OK,Cleanup - 50 Akun Uji 1-1,text,true,,671,267,1,1,https://demoqa.com/Account/v1/Login,278,0,0
+1795692986491,1343,Transaction Controller 01 - Login,200,"Number of samples in transaction : 2, number of failing samples : 0",Cleanup - 50 Akun Uji 1-1,,true,,1225,542,1,1,null,1343,1,0
+1795692987836,1300,Cleanup,204,No Content,Cleanup - 50 Akun Uji 1-1,,true,,185,486,1,1,https://demoqa.com/BookStore/v1/Books?UserId=1667b8c8-a026-4832-9b55-dc5238263efd,0,0,0
+1795692989136,969,Generate Token,200,OK,Cleanup - 50 Akun Uji 1-1,text,true,,554,275,1,1,https://demoqa.com/Account/v1/GenerateToken,969,0,0
+1795692990108,426,Login,200,OK,Cleanup - 50 Akun Uji 1-1,text,true,,671,267,1,1,https://demoqa.com/Account/v1/Login,426,0,0
+1795692989135,1395,Transaction Controller 01 - Login,200,"Number of samples in transaction : 2, number of failing samples : 0",Cleanup - 50 Akun Uji 1-1,,true,,1225,542,1,1,null,1395,4,0
+1795692990534,1173,Cleanup,204,No Content,Cleanup - 50 Akun Uji 1-1,,true,,185,486,1,1,https://demoqa.com/BookStore/v1/Books?UserId=84c40f70-b476-4b14-8a6e-04d640d27dd1,0,0,0
+1795692991708,868,Generate Token,200,OK,Cleanup - 50 Akun Uji 1-1,text,true,,554,275,1,1,https://demoqa.com/Account/v1/GenerateToken,868,0,0
+1795692992577,329,Login,200,OK,Cleanup - 50 Akun Uji 1-1,text,true,,671,267,1,1,https://demoqa.com/Account/v1/Login,329,0,0
+1795692991707,1197,Transaction Controller 01 - Login,200,"Number of samples in transaction : 2, number of failing samples : 0",Cleanup - 50 Akun Uji 1-1,,true,,1225,542,1,1,null,1197,3,0
+1795692992907,1264,Cleanup,204,No Content,Cleanup - 50 Akun Uji 1-1,,true,,185,486,1,1,https://demoqa.com/BookStore/v1/Books?UserId=5171469f-d301-4314-90c1-5bcf6e762460,0,0,0
+1795692994172,907,Generate Token,200,OK,Cleanup - 50 Akun Uji 1-1,text,true,,554,275,1,1,https://demoqa.com/Account/v1/GenerateToken,907,0,0
+1795692995082,293,Login,200,OK,Cleanup - 50 Akun Uji 1-1,text,true,,671,267,1,1,https://demoqa.com/Account/v1/Login,293,0,0
+1795692994172,1200,Transaction Controller 01 - Login,200,"Number of samples in transaction : 2, number of failing samples : 0",Cleanup - 50 Akun Uji 1-1,,true,,1225,542,1,1,null,1200,5,0
+1795692995377,1430,Cleanup,204,No Content,Cleanup - 50 Akun Uji 1-1,,true,,185,486,1,1,https://demoqa.com/BookStore/v1/Books?UserId=269fbeea-979b-4f11-983f-59ced3ac3f4d,0,0,0
+1795692996807,840,Generate Token,200,OK,Cleanup - 50 Akun Uji 1-1,text,true,,554,275,1,1,https://demoqa.com/Account/v1/GenerateToken,840,0,0
+1795692997649,507,Login,200,OK,Cleanup - 50 Akun Uji 1-1,text,true,,671,267,1,1,https://demoqa.com/Account/v1/Login,507,0,0
+1795692996807,1347,Transaction Controller 01 - Login,200,"Number of samples in transaction : 2, number of failing samples : 0",Cleanup - 50 Akun Uji 1-1,,true,,1225,542,1,1,null,1347,3,0
+1795692998158,1190,Cleanup,204,No Content,Cleanup - 50 Akun Uji 1-1,,true,,185,486,1,1,https://demoqa.com/BookStore/v1/Books?UserId=bcf68ec4-2b8e-4aff-940f-efa7622978b3,0,0,0
+1795692999350,852,Generate Token,200,OK,Cleanup - 50 Akun Uji 1-1,text,true,,554,275,1,1,https://demoqa.com/Account/v1/GenerateToken,852,0,0
+1795693000203,233,Login,200,OK,Cleanup - 50 Akun Uji 1-1,text,true,,671,267,1,1,https://demoqa.com/Account/v1/Login,233,0,0
+1795692999349,1085,Transaction Controller 01 - Login,200,"Number of samples in transaction : 2, number of failing samples : 0",Cleanup - 50 Akun Uji 1-1,,true,,1225,542,1,1,null,1085,3,0
+1795693000437,1254,Cleanup,204,No Content,Cleanup - 50 Akun Uji 1-1,,true,,185,486,1,1,https://demoqa.com/BookStore/v1/Books?UserId=0ee1393f-0375-4ad7-b96f-be1427bde54d,0,0,0
+1795693001692,908,Generate Token,200,OK,Cleanup - 50 Akun Uji 1-1,text,true,,554,275,1,1,https://demoqa.com/Account/v1/GenerateToken,908,0,0
+1795693002602,465,Login,200,OK,Cleanup - 50 Akun Uji 1-1,text,true,,671,267,1,1,https://demoqa.com/Account/v1/Login,465,0,0
+1795693001692,1373,Transaction Controller 01 - Login,200,"Number of samples in transaction : 2, number of failing samples : 0",Cleanup - 50 Akun Uji 1-1,,true,,1225,542,1,1,null,1373,3,0
+1795693003067,1879,Cleanup,204,No Content,Cleanup - 50 Akun Uji 1-1,,true,,185,486,1,1,https://demoqa.com/BookStore/v1/Books?UserId=a61beb47-20bf-4694-b0bb-56b5bcdf900c,0,0,0
+1795693004948,1020,Generate Token,200,OK,Cleanup - 50 Akun Uji 1-1,text,true,,554,275,1,1,https://demoqa.com/Account/v1/GenerateToken,1020,0,0
+1795693005969,649,Login,200,OK,Cleanup - 50 Akun Uji 1-1,text,true,,671,267,1,1,https://demoqa.com/Account/v1/Login,649,0,0
+1795693004947,1669,Transaction Controller 01 - Login,200,"Number of samples in transaction : 2, number of failing samples : 0",Cleanup - 50 Akun Uji 1-1,,true,,1225,542,1,1,null,1669,3,0
+1795693006619,1314,Cleanup,204,No Content,Cleanup - 50 Akun Uji 1-1,,true,,185,486,1,1,https://demoqa.com/BookStore/v1/Books?UserId=c1c2eb91-310f-4aca-985f-eb04733ab930,0,0,0
+1795693007934,881,Generate Token,200,OK,Cleanup - 50 Akun Uji 1-1,text,true,,554,275,1,1,https://demoqa.com/Account/v1/GenerateToken,881,0,0
+1795693008818,459,Login,200,OK,Cleanup - 50 Akun Uji 1-1,text,true,,671,267,1,1,https://demoqa.com/Account/v1/Login,459,0,0
+1795693007934,1340,Transaction Controller 01 - Login,200,"Number of samples in transaction : 2, number of failing samples : 0",Cleanup - 50 Akun Uji 1-1,,true,,1225,542,1,1,null,1340,3,0
+1795693009279,1433,Cleanup,204,No Content,Cleanup - 50 Akun Uji 1-1,,true,,185,486,1,1,https://demoqa.com/BookStore/v1/Books?UserId=91b2c7e9-6a6e-4c5f-be5c-8fc54f787f2f,0,0,0
+1795693010713,1166,Generate Token,200,OK,Cleanup - 50 Akun Uji 1-1,text,true,,554,275,1,1,https://demoqa.com/Account/v1/GenerateToken,1165,0,0
+1795693011881,725,Login,200,OK,Cleanup - 50 Akun Uji 1-1,text,true,,671,267,1,1,https://demoqa.com/Account/v1/Login,725,0,0
+1795693010713,1891,Transaction Controller 01 - Login,200,"Number of samples in transaction : 2, number of failing samples : 0",Cleanup - 50 Akun Uji 1-1,,true,,1225,542,1,1,null,1890,3,0
+1795693012607,1056,Cleanup,204,No Content,Cleanup - 50 Akun Uji 1-1,,true,,185,486,1,1,https://demoqa.com/BookStore/v1/Books?UserId=ecbcc90f-3dce-45eb-872e-47b2432ef638,0,0,0
+1795693013664,891,Generate Token,200,OK,Cleanup - 50 Akun Uji 1-1,text,true,,554,275,1,1,https://demoqa.com/Account/v1/GenerateToken,891,0,0
+1795693014556,307,Login,200,OK,Cleanup - 50 Akun Uji 1-1,text,true,,671,267,1,1,https://demoqa.com/Account/v1/Login,306,0,0
+1795693013663,1198,Transaction Controller 01 - Login,200,"Number of samples in transaction : 2, number of failing samples : 0",Cleanup - 50 Akun Uji 1-1,,true,,1225,542,1,1,null,1197,2,0
+1795693014864,1241,Cleanup,204,No Content,Cleanup - 50 Akun Uji 1-1,,true,,185,486,1,1,https://demoqa.com/BookStore/v1/Books?UserId=4d19d653-ca5e-4bde-a761-4c6f3a74765e,0,0,0
+1795693016105,1155,Generate Token,200,OK,Cleanup - 50 Akun Uji 1-1,text,true,,554,275,1,1,https://demoqa.com/Account/v1/GenerateToken,1155,0,0
+1795693017262,566,Login,200,OK,Cleanup - 50 Akun Uji 1-1,text,true,,671,267,1,1,https://demoqa.com/Account/v1/Login,565,0,0
+1795693016105,1721,Transaction Controller 01 - Login,200,"Number of samples in transaction : 2, number of failing samples : 0",Cleanup - 50 Akun Uji 1-1,,true,,1225,542,1,1,null,1720,3,0
+1795693017830,1086,Cleanup,204,No Content,Cleanup - 50 Akun Uji 1-1,,true,,185,486,1,1,https://demoqa.com/BookStore/v1/Books?UserId=c7796592-169b-49b2-90f1-2aa78c5656a3,0,0,0
+1795693018917,1048,Generate Token,200,OK,Cleanup - 50 Akun Uji 1-1,text,true,,554,275,1,1,https://demoqa.com/Account/v1/GenerateToken,1048,0,0
+1795693019966,254,Login,200,OK,Cleanup - 50 Akun Uji 1-1,text,true,,671,267,1,1,https://demoqa.com/Account/v1/Login,254,0,0
+1795693018916,1302,Transaction Controller 01 - Login,200,"Number of samples in transaction : 2, number of failing samples : 0",Cleanup - 50 Akun Uji 1-1,,true,,1225,542,1,1,null,1302,4,0
+1795693020223,1323,Cleanup,204,No Content,Cleanup - 50 Akun Uji 1-1,,true,,185,486,1,1,https://demoqa.com/BookStore/v1/Books?UserId=12143fc8-80b2-402b-bfc3-b390f338e839,0,0,0
+1795693021546,861,Generate Token,200,OK,Cleanup - 50 Akun Uji 1-1,text,true,,554,275,1,1,https://demoqa.com/Account/v1/GenerateToken,861,0,0
+1795693022408,517,Login,200,OK,Cleanup - 50 Akun Uji 1-1,text,true,,671,267,1,1,https://demoqa.com/Account/v1/Login,517,0,0
+1795693021546,1378,Transaction Controller 01 - Login,200,"Number of samples in transaction : 2, number of failing samples : 0",Cleanup - 50 Akun Uji 1-1,,true,,1225,542,1,1,null,1378,1,0
+1795693022926,1287,Cleanup,204,No Content,Cleanup - 50 Akun Uji 1-1,,true,,185,486,1,1,https://demoqa.com/BookStore/v1/Books?UserId=bdd4539e-2edf-4e4a-b7b9-c2ad98073bd9,0,0,0
+1795693024214,1593,Generate Token,200,OK,Cleanup - 50 Akun Uji 1-1,text,true,,554,275,1,1,https://demoqa.com/Account/v1/GenerateToken,1593,0,422
+1795693025808,280,Login,200,OK,Cleanup - 50 Akun Uji 1-1,text,true,,671,267,1,1,https://demoqa.com/Account/v1/Login,280,0,0
+1795693024214,1873,Transaction Controller 01 - Login,200,"Number of samples in transaction : 2, number of failing samples : 0",Cleanup - 50 Akun Uji 1-1,,true,,1225,542,1,1,null,1873,1,422
+1795693026088,1301,Cleanup,204,No Content,Cleanup - 50 Akun Uji 1-1,,true,,185,486,1,1,https://demoqa.com/BookStore/v1/Books?UserId=189e7de3-5938-4311-bdd3-ea0dd3eaf1e6,0,0,0
+1795693027390,1316,Generate Token,200,OK,Cleanup - 50 Akun Uji 1-1,text,true,,554,275,1,1,https://demoqa.com/Account/v1/GenerateToken,1316,0,0
+1795693028706,569,Login,200,OK,Cleanup - 50 Akun Uji 1-1,text,true,,671,267,1,1,https://demoqa.com/Account/v1/Login,569,0,0
+1795693027390,1885,Transaction Controller 01 - Login,200,"Number of samples in transaction : 2, number of failing samples : 0",Cleanup - 50 Akun Uji 1-1,,true,,1225,542,1,1,null,1885,1,0
+1795693029276,998,Cleanup,204,No Content,Cleanup - 50 Akun Uji 1-1,,true,,185,486,1,1,https://demoqa.com/BookStore/v1/Books?UserId=aafc8be2-5923-4293-a8f8-d8f808983147,0,0,0
+1795693030275,945,Generate Token,200,OK,Cleanup - 50 Akun Uji 1-1,text,true,,554,275,1,1,https://demoqa.com/Account/v1/GenerateToken,945,0,0
+1795693031221,239,Login,200,OK,Cleanup - 50 Akun Uji 1-1,text,true,,671,267,1,1,https://demoqa.com/Account/v1/Login,239,0,0
+1795693030274,1184,Transaction Controller 01 - Login,200,"Number of samples in transaction : 2, number of failing samples : 0",Cleanup - 50 Akun Uji 1-1,,true,,1225,542,1,1,null,1184,3,0
+1795693031461,975,Cleanup,204,No Content,Cleanup - 50 Akun Uji 1-1,,true,,185,486,1,1,https://demoqa.com/BookStore/v1/Books?UserId=12b828cf-74bf-4510-af28-26d9ea815e92,0,0,0
